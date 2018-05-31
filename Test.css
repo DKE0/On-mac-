@@ -1,0 +1,73 @@
+.Bouton
+{
+    margin: auto;
+    display: block;
+    
+    text-align: center;
+    font-weight: 700;
+    text-decoration: none;
+    width: 50%;
+    height:70px;
+    padding-top:10px;
+    width:200px;
+    border-radius:7px;
+    color: white;
+    background: #4D4DFF;
+    /*#00a3c8;*/
+}
+.Bouton:hover{
+    background: #FB0189;
+    color: white;
+}
+.Bouton:active
+{
+    color:white;
+}
+
+#fak_but
+{
+    margin: auto;
+    display: block;
+    text-align: center;
+    font-weight: 700;
+    text-decoration: none;
+    width: 50%;
+    height:70px;
+    padding-top:10px;
+    width:200px;
+    border-radius:7px;
+    color: white;
+    background: #00a3c8;
+}
+
+.border
+{
+    margin-bottom:30px;
+    text-align: center;
+    font-weight: 700;
+    border-radius:7px;
+    color: white;
+    background: #00a3c8;
+    padding-bottom: 20px;
+    padding-top:20px;
+}
+
+.container
+{
+    display: inline-block;
+    vertical-align: top;
+    width:  20%;
+    margin-right: 2%;
+    margin-left: 2%;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /*border: 1px solid #181818;*/
+}
+
+.container:hover
+{
+    background: #FB0189;
+    color: white;
+    border-radius:7px;
+}
