@@ -1,18 +1,9 @@
 .Bouton
 {
-    margin: auto;
-    display: block;
-
-    text-align: center;
-    font-weight: 700;
-    text-decoration: none;
-    width: 50%;
-    height:70px;
-    padding-top:10px;
-    width:200px;
-    border-radius:7px;
-    color: white;
-    background: #4D4DFF;
+    margin: auto;    display: block;   text-align: center;
+    font-weight: 700; text-decoration: none;   width: 50%;
+    height:70px;  padding-top:10px;   width:200px;
+    border-radius:7px;  color: white;  background: #4D4DFF;
     /*#00a3c8;*/
 }
 .Bouton:hover{
